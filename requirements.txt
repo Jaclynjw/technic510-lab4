@@ -63,7 +63,7 @@ pyparsing==3.1.2
 #python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
 python-dotenv==1.0.1
 pytz==2024.1
-pywin32==306
+#pywin32==306
 #pyzmq @ file:///D:/bld/pyzmq_1713207614829/work
 referencing==0.34.0
 requests==2.31.0
